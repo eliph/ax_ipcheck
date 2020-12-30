@@ -1,0 +1,22 @@
+h1. ax_ipcheck
+
+p. Check for IP ranges of the allowed clients
+
+p. "DOWNLOAD":https://raw.github.com/eliph/ax_ipcheck/master/ax_ipcheck.txt
+
+h2. Instructions:
+
+h2. Tags:
+
+h3. HTML output:
+
+h3. "type" attribute
+
+p. Outputs:
+
+h2. Notes:
+
+h2. Version history
+
+0.1 - December 2020
+* first release.
