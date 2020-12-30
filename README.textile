@@ -6,15 +6,13 @@ p. REQUIRES: "Textpattern CMS":https://textpattern.com/, tested with v4.7.2 and 
 
 p. "DOWNLOAD":https://raw.github.com/eliph/ax_ipcheck/master/ax_ipcheck.txt
 
-h2. Instructions
+h2. Tags
 
 bc. <txp:ax_ipcheck fromip="129.206.0.0" toip="129.206.255.255">
     IP ok
 <txp:else />
     IP not ok
 </txp:ax_ipcheck>
-
-h2. Tags
 
 h2. Notes
 
