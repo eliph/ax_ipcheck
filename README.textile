@@ -2,13 +2,25 @@ h1. ax_ipcheck
 
 p. This plugin allows for restricted assess to websites, pages or sectiions of textpattern code by checking for IP ranges of the allowed clients
 
+p. JavaScript management plugin for "Textpattern":http://www.textpattern.com/.
+
+p. Create, edit and delete scripts in Textpattern admin and export on save to external files.
+
+p. REQUIRES: *Textpattern*, tested with v4.7.2 and v4.8.4
+
 p. "DOWNLOAD":https://raw.github.com/eliph/ax_ipcheck/master/ax_ipcheck.txt
 
-h2. Instructions:
+h2. Instructions
 
-h2. Tags:
+<txp:ax_ipcheck fromip="129.206.0.0" toip="129.206.255.255">
+    IP ok
+<txp:else />
+    IP not ok
+</txp:ax_ipcheck>
 
-h2. Notes:
+h2. Tags
+
+h2. Notes
 
 h2. Version history
 
