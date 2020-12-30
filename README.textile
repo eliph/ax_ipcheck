@@ -8,12 +8,6 @@ h2. Instructions:
 
 h2. Tags:
 
-h3. HTML output:
-
-h3. "type" attribute
-
-p. Outputs:
-
 h2. Notes:
 
 h2. Version history
