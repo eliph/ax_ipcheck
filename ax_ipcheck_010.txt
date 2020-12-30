@@ -1,0 +1,31 @@
+# Name: ax_ipcheck v0.1 
+# Type: Public plugin
+# Check for IP address for restricted access
+# Author: eliph
+# URL: https://raw.github.com/eliph/ax_ipcheck/master/ax_ipcheck.txt
+# Recommended load order: 5
+
+# .....................................................................
+# This is a plugin for Textpattern CMS - http://textpattern.com/
+# To install: textpattern > admin > plugins
+# Paste the following text into the 'Install plugin' box:
+# .....................................................................
+
+YToxMTp7czo0OiJuYW1lIjtzOjEwOiJheF9pcGNoZWNrIjtzOjY6ImF1dGhvciI7czo1OiJl
+bGlwaCI7czoxMDoiYXV0aG9yX3VyaSI7czo2MToiaHR0cHM6Ly9yYXcuZ2l0aHViLmNvbS9l
+bGlwaC9heF9pcGNoZWNrL21hc3Rlci9heF9pcGNoZWNrLnR4dCI7czo3OiJ2ZXJzaW9uIjtz
+OjM6IjAuMSI7czoxMToiZGVzY3JpcHRpb24iO3M6NDI6IkNoZWNrIGZvciBJUCBhZGRyZXNz
+IGZvciByZXN0cmljdGVkIGFjY2VzcyI7czo0OiJjb2RlIjtzOjU1MzoiLy8gYXhfaXBjaGVj
+ayBwbHVnaW4gZm9yIHRleHRwYXR0ZXJuDQoNCmZ1bmN0aW9uIGlwX2NoZWNrKCRhdHRzKSB7
+DQogICAgICAgICBleHRyYWN0KGxBdHRzKGFycmF5KA0KICAgICAgICAgJ2Zyb21pcCcgPT4g
+JycsDQogICAgICAgICAndG9pcCcgPT4gJycsDQogICApLCRhdHRzKSk7DQogICAkaXBfbG93
+ID0gaXAybG9uZygkZnJvbWlwKTsNCiAgICRpcF9oaWdoID0gaXAybG9uZygkdG9pcCk7DQog
+ICAkdXNlcl9pcCA9IGlwMmxvbmcoJF9TRVJWRVJbJ1JFTU9URV9BRERSJ10pOw0KICAgJG15
+X2lwID0gJF9TRVJWRVJbJ1JFTU9URV9BRERSJ107DQogIC8vY2hlY2sgZm9yIGFsbG93ZWQg
+Y2xpZW50cw0KICBpZiAoICgkbXlfaXA+JGlwX2xvdykgJiYgKCRteV9pcDwkaXBfaGlnaCkg
+KQ0KICAgIHsNCiAgICAgJHJlc3VsdCA9IDE7DQogICAgfQ0KICBlbHNlDQogICAgew0KICAg
+ICAkcmVzdWx0ID0gMDsNCiAgICB9DQogICAvL3JldHVybiAxIGlmX2lwIGlzIHRydWUNCiAg
+IHJldHVybiBwYXJzZShFdmFsRWxzZSgkdGhpbmcsJHJlc3VsdCkpOw0KICAgICAgICB9DQoN
+CiI7czo0OiJ0eXBlIjtzOjE6IjAiO3M6NToib3JkZXIiO3M6MToiNSI7czo1OiJmbGFncyI7
+czoxOiIwIjtzOjQ6ImhlbHAiO3M6Mjk6IjxoMT5oZWxwIHlvdXJzZWxmIHMudi5wLjwvaDE+
+IjtzOjM6Im1kNSI7czozMjoiYmY3MjRlY2Q4NzQxYjE3M2E2NGFhOGQ3MjhiNzZjNjYiO30=
