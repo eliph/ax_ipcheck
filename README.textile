@@ -1,6 +1,6 @@
 h1. ax_ipcheck
 
-p. Check for IP ranges of the allowed clients
+p. This plugin allows for restricted assess to websites, pages or sectiions of textpattern code by checking for IP ranges of the allowed clients
 
 p. "DOWNLOAD":https://raw.github.com/eliph/ax_ipcheck/master/ax_ipcheck.txt
 
