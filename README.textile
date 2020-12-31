@@ -6,7 +6,7 @@ p. "DOWNLOAD":https://raw.github.com/eliph/ax_ipcheck/master/ax_ipcheck_v010.txt
 
 h2. Tags
 
-bc. <txp:ax_ipcheck fromip="129.168.0.0" toip="129.168.255.255">
+bc. <txp:ax_ipcheck fromip="..." toip="...">
 
 h2. Example
 
