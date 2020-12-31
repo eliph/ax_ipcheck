@@ -10,7 +10,7 @@ bc. <txp:ax_ipcheck fromip="..." toip="...">
 
 h2. Example
 
-bc. <txp:ax_ipcheck fromip="129.168.0.0" toip="129.168.255.255">
+bc. <txp:ax_ipcheck fromip="192.168.0.0" toip="192.168.255.255">
     IP address is ok
 <txp:else />
     IP address is not ok
