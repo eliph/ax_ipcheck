@@ -6,11 +6,11 @@ p. "DOWNLOAD":https://raw.github.com/eliph/ax_ipcheck/master/ax_ipcheck_v010.txt
 
 h2. Tags
 
-bc. <txp:ax_ipcheck fromip="129.206.0.0" toip="129.206.255.255">
+bc. <txp:ax_ipcheck fromip="129.168.0.0" toip="129.168.255.255">
 
 h2. Example
 
-bc. <txp:ax_ipcheck fromip="129.206.0.0" toip="129.206.255.255">
+bc. <txp:ax_ipcheck fromip="129.168.0.0" toip="129.168.255.255">
     IP address is ok
 <txp:else />
     IP address is not ok
