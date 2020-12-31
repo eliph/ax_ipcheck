@@ -1,6 +1,6 @@
 h1. ax_ipcheck
 
-p. This lets you show parts of a page only to visitors with an allowed IP range of the client. Tested with Textpattern*:https://textpattern.com/ v4.7.2 and v4.8.4.
+p. This lets you show parts of a page only to visitors with an allowed IP range of the client. Tested with "Textpattern":https://textpattern.com/ v4.7.2 and v4.8.4.
 
 p. "DOWNLOAD":https://raw.github.com/eliph/ax_ipcheck/master/ax_ipcheck_v010.txt
 
